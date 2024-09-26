@@ -1304,7 +1304,7 @@ label {
     z-index: 9;
 }
 .slider-content h2 {
-	font-size: 100px;
+	font-size: 45px;
 	text-transform: uppercase;
 	font-weight: 800;
 	color: #fff;
@@ -2213,6 +2213,7 @@ label {
 	transition: .3s linear;
 	position: relative;
 	z-index: 1;
+	height: 160px;
 }
 .services-icon {
 	height: 115px;

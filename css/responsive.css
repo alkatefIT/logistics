@@ -78,7 +78,7 @@
 	display: none;
 }
 .slider-content h2 {
-	font-size: 88px;
+	font-size: 40px;
 }
 .slider-content p {
 	width: 80%;
@@ -336,6 +336,7 @@ blockquote.classic-blockquote-post::after {
 	left: auto;
 }
 
+
 }
 
 
@@ -364,7 +365,7 @@ blockquote.classic-blockquote-post::after {
 	margin-left: 0;
 }
 .slider-content h2 {
-	font-size: 70px;
+	font-size: 35px;
 }
 .slider-content p {
 	width: 80%;
@@ -660,7 +661,7 @@ blockquote.blockquote-post::before {
 	margin-top: -39px;
 }
 .slider-content h2 {
-	font-size: 50px;
+	font-size: 30px;
 }
 .slider-content p {
 	width: 100%;
