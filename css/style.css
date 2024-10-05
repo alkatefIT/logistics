@@ -1248,12 +1248,13 @@ label {
 
 /* 6. Slider */
 .slider-bg {
-	background-image: url(../img/slider/slider_img02.jpg);
+	background-image: url(../img/slider/logistics.webp);
 	position: relative;
 	min-height: 749px;
 	background-position: center;
 	background-size: cover;
 	z-index: 2;
+	filter: brightness(90%);
 }
 .slider-overlay-bg {
 	background-image: url(../img/slider/slider_img01.png);
