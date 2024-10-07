@@ -4725,7 +4725,8 @@ blockquote.classic-blockquote-post::after {
 	font-size: 16px;
 }
 .copyright-text p span {
-	color: #d8450b;
+	/* color: #d8450b; */
+	color: #9B7413;
 }
 
 /* 27. Preloader */
