@@ -3425,6 +3425,10 @@ label {
 	margin-bottom: 35px;
 }
 
+.extra-features-img img {
+	width: 100%;
+}
+
 /* 17. Control */
 .control-fluid {
 	padding: 0 95px;
