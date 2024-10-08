@@ -1248,16 +1248,15 @@ label {
 
 /* 6. Slider */
 .slider-bg {
-	background-image: url(../img/slider/logistics.webp);
+	background-image: url(../img/slider/banner.webp);
 	position: relative;
 	min-height: 749px;
 	background-position: center;
 	background-size: cover;
 	z-index: 2;
-	filter: brightness(90%);
 }
 .slider-overlay-bg {
-	background-image: url(../img/slider/slider_img01.png);
+	/* background-image: url(../img/slider/slider_img01.png); */
 	min-height: 749px;
 	width: 100%;
 	position: absolute;
@@ -1267,7 +1266,7 @@ label {
 	opacity: .05;
 }
 .slider-bg-shape {
-	background-image: url(../img/slider/slider_shape.png);
+	/* background-image: url(../img/slider/slider_shape.png); */
 	position: absolute;
 	width: 822px;
 	height: 632px;
@@ -1298,7 +1297,7 @@ label {
 	z-index: 1;
 }
 .YTPOverlay.raster {
-    background: url(../img/slider/raster_dot.png);
+    /* background: url(../img/slider/raster_dot.png); */
 }
 .slider-content {
     position: relative;
@@ -1311,6 +1310,7 @@ label {
 	color: #fff;
 	line-height: 1;
 	margin-bottom: 10px;
+
 }
 .slider-content p {
 	color: #fff;
