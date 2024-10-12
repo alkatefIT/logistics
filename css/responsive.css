@@ -33,6 +33,7 @@
 	right: 12.4%;
 	transform: rotate(12deg);
 }
+
 .s-slider-content h2 {
 	font-size: 110px;
 }
@@ -77,6 +78,7 @@
 .header-btn {
 	display: none;
 }
+
 .slider-content h2 {
 	font-size: 40px;
 }
@@ -447,6 +449,7 @@ blockquote.classic-blockquote-post::after {
 .transparent-header {
 	background: transparent;
 }
+
 .slider-golve {
 	display: none;
 }
@@ -659,6 +662,9 @@ blockquote.blockquote-post::before {
 }
 .mean-container a.meanmenu-reveal {
 	margin-top: -39px;
+}
+.slider-content {
+	margin-block-start: 250px;
 }
 .slider-content h2 {
 	font-size: 30px;
