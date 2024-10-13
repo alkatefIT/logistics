@@ -664,7 +664,7 @@ blockquote.blockquote-post::before {
 	margin-top: -39px;
 }
 .slider-content {
-	margin-block-start: 250px;
+	margin-block-start: -80px;
 }
 .slider-content h2 {
 	font-size: 30px;
@@ -681,7 +681,8 @@ blockquote.blockquote-post::before {
 	margin-bottom: 15px;
 }
 .slider-bg {
-	min-height: 700px;
+	min-height: 250px;
+	height: 250px;
 }
 .category-list ul {
 	display: block;
@@ -1446,4 +1447,13 @@ blockquote.classic-blockquote-post::after {
 	width: calc(100% / 2);
 }
 
+}
+@media screen and (max-width:500px){
+	.s-slider-bg {
+		background-image: url(../img/slider/slider_img03.jpg);
+		min-height: 954px;
+		background-position: center;
+		background-size: contain;
+		position: relative;
+	}
 }
